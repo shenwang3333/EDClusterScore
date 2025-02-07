@@ -1,4 +1,4 @@
-function [counter] = clustercount1d2(seq)
+function [counter] = clustercount1d3(seq)
 
 len = length(seq);
 counter = 0;
